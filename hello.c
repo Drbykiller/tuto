@@ -3,4 +3,5 @@
 void main(){
 
     printf("Hello Word\n");
+    printf("Bienvenue GIT\n");
 }
